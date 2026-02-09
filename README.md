@@ -14,7 +14,6 @@ Chai Maker is a Streamlit-based web application that simulates a real café tea 
 ## 🛠 Tech Stack
 - Python
 - Streamlit
-- NumPy
 - ReportLab
 
 ## ▶️ How to Run Locally
